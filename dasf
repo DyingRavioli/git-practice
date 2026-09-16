@@ -1,0 +1,143 @@
+[33mcommit 909f7f451e65f0d2fe6fe988be5bcc61c1de7272[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: DyingRavioli <jyl9645@nyu.edu>
+Date:   Tue Sep 15 23:03:01 2026 -0400
+
+    Edited README with article and thoughts
+
+[33mcommit efe4211381e96be9d404f311c71d2969773f5fc8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Thu Sep 10 12:35:11 2026 -0400
+
+    forking
+
+[33mcommit ffa791dfe2467bed87b15088578e747b15e9742f[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Sat Aug 29 22:17:15 2026 -0400
+
+    do not name a specific messaging app in submission instructions
+    
+    The messaging app may differ by course or change over time, so instructions
+    now refer to the app specified by the instructor. Channel names such as
+    #project-ideas and #data-dibs are kept.
+    
+    Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>
+
+[33mcommit 0de26eb0a4a0a4be54fdcfe0af5ea0774e6b6712[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Sat Aug 29 21:59:38 2026 -0400
+
+    update instructions for the fork-based submission workflow
+    
+    GitHub Classroom has been retired. Students now fork this repository, push
+    their work to their own fork, and submit by posting the fork's web address in
+    their private channel in the course Discord.
+    
+    Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>
+
+[33mcommit fd34fa3a6bc57fd65adf6aa07871e2a0d14759c6[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Sat Apr 11 11:49:50 2026 -0400
+
+    claude cursor hook
+
+[33mcommit f29ffad4fdd6f448d61dae6289d095505c305cc2[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Mon Apr 6 23:03:27 2026 -0400
+
+    update2
+
+[33mcommit b701750fd27f60c8c97862ab1562138d73f38f99[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Mon Apr 6 16:41:34 2026 -0400
+
+    update
+
+[33mcommit 44f4643cd549d737a913babadea2863ddb06f045[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Wed Apr 1 15:29:31 2026 -0400
+
+    automations update
+
+[33mcommit 5441fad8dfc44cba0a7a3fc6f3faee3fa331ee87[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Thu Feb 12 10:59:29 2026 -0500
+
+    fixiki
+
+[33mcommit 27cf311c696b9d1481c8ce1e8d3078a0882f6ae5[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Wed Jan 28 12:05:10 2026 -0500
+
+    main/master branch names
+
+[33mcommit b4eda809e756df4741a4cd032b897e4b3d1d0407[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Wed Jan 28 11:59:22 2026 -0500
+
+    typo fix
+
+[33mcommit bdf5f7d7bb1525909ea5563e4f9d157e317f1181[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Sat Mar 1 11:03:18 2025 -0500
+
+    event logger insulation
+
+[33mcommit a0ad2d9da75680b02bf89abd05f90ca41984fb32[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Sat Feb 15 12:42:18 2025 -0500
+
+    added git commit-msg hook
+
+[33mcommit 8618bcb8112022eaa29654e6477a724ba712614a[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Thu Feb 22 16:43:17 2024 -0500
+
+    which python
+
+[33mcommit ff1323db47dde37e631e664de51676a5040b3e54[m
+Author: bloombar_local_username <amos@cs.nyu.edu>
+Date:   Thu Feb 1 18:55:20 2024 -0500
+
+    clarity
+
+[33mcommit 2ac93cf211c7a706209cb31b140e5fa2d608fe4d[m
+Author: bloombar_local_username <amos@cs.nyu.edu>
+Date:   Thu Feb 1 18:42:10 2024 -0500
+
+    adding logging
+
+[33mcommit 99295faa44deb23a3563d94e06a34264329c212f[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Thu Sep 14 09:42:07 2023 +0300
+
+    removing redundant github instruction
+
+[33mcommit 7791ca581db537a08f76f847fb0c40007ea14e44[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Thu Sep 14 09:40:08 2023 +0300
+
+    removing broken links
+
+[33mcommit 9f999a60ae78d43d59fd6f19b7afeb125bcb19bc[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Tue Feb 15 21:22:03 2022 -0500
+
+    slack -> discord
+
+[33mcommit 2965fa98eb986ad3488e8a6b40ca6c7ff0a1f709[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Fri Feb 4 12:40:19 2022 -0500
+
+    replaced Slack with Discord
+
+[33mcommit 8cbc810691738446e59b78762d66c33a85774ba0[m
+Author: bloombar <amos@cs.nyu.edu>
+Date:   Sun Feb 7 15:53:55 2021 -0500
+
+    instructions complete
+
+[33mcommit 197ade459a14377556c7e5d88ef6959497134e67[m
+Author: bloombar <2209098+bloombar@users.noreply.github.com>
+Date:   Sun Feb 7 15:34:34 2021 -0500
+
+    Initial commit
